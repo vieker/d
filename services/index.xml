@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Spread Joy</title>
-    <link>/services/</link>
+    <link>http://vieker.github.io/d/services/</link>
     <description>Recent content in Services on Spread Joy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate><atom:link href="http://vieker.github.io/d/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>/services/books/</link>
+      <link>http://vieker.github.io/d/services/books/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
-      <guid>/services/books/</guid>
+      <guid>http://vieker.github.io/d/services/books/</guid>
       <description>We give books away!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris. Etiam placerat velit a nisl ornare, ut vehicula orci pretium.</description>
     </item>
     
     <item>
       <title>Dolls</title>
-      <link>/services/dolls/</link>
+      <link>http://vieker.github.io/d/services/dolls/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
       
-      <guid>/services/dolls/</guid>
+      <guid>http://vieker.github.io/d/services/dolls/</guid>
       <description>Dolls, too.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris. Etiam placerat velit a nisl ornare, ut vehicula orci pretium.</description>
     </item>
     
     <item>
       <title>Other</title>
-      <link>/services/other/</link>
+      <link>http://vieker.github.io/d/services/other/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
       
-      <guid>/services/other/</guid>
+      <guid>http://vieker.github.io/d/services/other/</guid>
       <description>Other ideas? We&amp;rsquo;re open to suggestions!
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris.</description>
     </item>
