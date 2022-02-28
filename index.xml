@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Spread Joy</title>
+    <title>Homepage on Project HAPPIE</title>
     <link>http://vieker.github.io/d/</link>
-    <description>Recent content in Homepage on Spread Joy</description>
+    <description>Recent content in Homepage on Project HAPPIE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Feb 2022 14:36:29 -0600</lastBuildDate><atom:link href="http://vieker.github.io/d/index.xml" rel="self" type="application/rss+xml" />
@@ -108,8 +108,7 @@ Donate here!</description>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
       <guid>http://vieker.github.io/d/about/</guid>
-      <description>Spread Joy is dedicated to providing preschools in Northeast Missouri with books about Down Syndrome in order to create a more inclusive environment for all children. Yeah!
-Donate here!</description>
+      <description>Project HAPPIE is dedicated to providing preschools in Northeast Missouri with books about Down Syndrome in order to create a more inclusive environment for all children. Donate here!</description>
     </item>
     
     <item>
@@ -127,8 +126,7 @@ Donate here!</description>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
       <guid>http://vieker.github.io/d/donate/</guid>
-      <description>Spread Joy is dedicated to providing preschools in Northeast Missouri with books about Down Syndrome in order to create a more inclusive environment for all children. Yeah!
-Donate here!</description>
+      <description>Project HAPPIE is dedicated to providing preschools in Northeast Missouri with books about Down Syndrome in order to create a more inclusive environment for all children. Donate here!</description>
     </item>
     
   </channel>
