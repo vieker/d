@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>What We Donate on Project HAPPIE</title>
-    <link>http://vieker.github.io/d/services/</link>
+    <link>projecthappie.org/services/</link>
     <description>Recent content in What We Donate on Project HAPPIE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://vieker.github.io/d/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="projecthappie.org/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>http://vieker.github.io/d/services/books/</link>
+      <link>projecthappie.org/services/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vieker.github.io/d/services/books/</guid>
+      <guid>projecthappie.org/services/books/</guid>
       <description>Our donation packages include the following wonderful books related to Down syndrome.
  We&amp;rsquo;ll Paint the Octopus Red, by Stephanie Stuve-Bodeen 47 Strings: Tessa&amp;rsquo;s Special Code, by Becky Carey You Are Enough: A Book about Inclusion, by Margaret O&amp;rsquo;Hair My Friend Isabelle, by Eliza Woloson  </description>
     </item>
     
     <item>
       <title>Dolls</title>
-      <link>http://vieker.github.io/d/services/dolls/</link>
+      <link>projecthappie.org/services/dolls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://vieker.github.io/d/services/dolls/</guid>
+      <guid>projecthappie.org/services/dolls/</guid>
       <description>Our donation packages include this wonderful doll from a company called Miniland. It&amp;rsquo;s important to us that all children have access to dolls that look like them, so we include dolls of different races and genders with each donation.</description>
     </item>
     
