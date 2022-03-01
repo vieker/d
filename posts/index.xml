@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Project HAPPIE</title>
-    <link>https://projecthappie.org/posts/</link>
+    <link>projecthappie.org/posts/</link>
     <description>Recent content in Posts on Project HAPPIE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Feb 2022 14:36:29 -0600</lastBuildDate><atom:link href="https://projecthappie.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 14:36:29 -0600</lastBuildDate><atom:link href="projecthappie.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Maddie&#39;s Library</title>
-      <link>https://projecthappie.org/posts/my-first-post-prev/</link>
+      <link>projecthappie.org/posts/my-first-post-prev/</link>
       <pubDate>Tue, 01 Feb 2022 14:36:29 -0600</pubDate>
       
-      <guid>https://projecthappie.org/posts/my-first-post-prev/</guid>
+      <guid>projecthappie.org/posts/my-first-post-prev/</guid>
       <description>Maddie&amp;rsquo;s Library is dedicated to providing preschools in Northeast Missouri with books about Down Syndrome in order to create a more inclusive environment for all children.
 Donate here!</description>
     </item>
