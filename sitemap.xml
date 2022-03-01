@@ -6,22 +6,17 @@
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
     <loc>http://vieker.github.io/d/services/books/</loc>
-    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
-  </url><url>
-    <loc>http://vieker.github.io/d/services/dolls/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url><url>
     <loc>http://vieker.github.io/d/team/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
+  </url><url>
+    <loc>http://vieker.github.io/d/services/dolls/</loc>
   </url><url>
     <loc>http://vieker.github.io/d/team/mike-vance/</loc>
     <lastmod>2018-12-20T13:44:30+10:00</lastmod>
   </url><url>
     <loc>http://vieker.github.io/d/team/robert-johnson/</loc>
     <lastmod>2018-12-20T13:44:23+10:00</lastmod>
-  </url><url>
-    <loc>http://vieker.github.io/d/services/other/</loc>
-    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url><url>
     <loc>http://vieker.github.io/d/team/tamara-ells/</loc>
     <lastmod>2018-12-20T13:44:55+10:00</lastmod>
@@ -41,13 +36,7 @@
     <loc>http://vieker.github.io/d/team/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
   </url><url>
-    <loc>http://vieker.github.io/d/services/</loc>
-    <lastmod>2018-11-28T15:15:26+10:00</lastmod>
-  </url><url>
     <loc>http://vieker.github.io/d/about/</loc>
-    <lastmod>2018-02-22T17:01:34+07:00</lastmod>
-  </url><url>
-    <loc>http://vieker.github.io/d/contact/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
     <loc>http://vieker.github.io/d/donate/</loc>
@@ -55,8 +44,12 @@
   </url><url>
     <loc>http://vieker.github.io/d/categories/</loc>
   </url><url>
+    <loc>http://vieker.github.io/d/contact/</loc>
+  </url><url>
     <loc>http://vieker.github.io/d/404/</loc>
   </url><url>
     <loc>http://vieker.github.io/d/tags/</loc>
+  </url><url>
+    <loc>http://vieker.github.io/d/services/</loc>
   </url>
 </urlset>

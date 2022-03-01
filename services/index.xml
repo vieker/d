@@ -1,40 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Services on Project HAPPIE</title>
+    <title>What We Donate on Project HAPPIE</title>
     <link>http://vieker.github.io/d/services/</link>
-    <description>Recent content in Services on Project HAPPIE</description>
+    <description>Recent content in What We Donate on Project HAPPIE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate><atom:link href="http://vieker.github.io/d/services/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://vieker.github.io/d/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
       <link>http://vieker.github.io/d/services/books/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vieker.github.io/d/services/books/</guid>
-      <description>We give books away!
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris. Etiam placerat velit a nisl ornare, ut vehicula orci pretium.</description>
+      <description>Our donation packages include the following wonderful books related to Down syndrome.
+ We&amp;rsquo;ll Paint the Octopus Red, by Stephanie Stuve-Bodeen 47 Strings: Tessa&amp;rsquo;s Special Code, by Becky Carey You Are Enough: A Book about Inclusion, by Margaret O&amp;rsquo;Hair My Friend Isabelle, by Eliza Woloson  </description>
     </item>
     
     <item>
       <title>Dolls</title>
       <link>http://vieker.github.io/d/services/dolls/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vieker.github.io/d/services/dolls/</guid>
-      <description>Dolls, too.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris. Etiam placerat velit a nisl ornare, ut vehicula orci pretium.</description>
-    </item>
-    
-    <item>
-      <title>Other</title>
-      <link>http://vieker.github.io/d/services/other/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      
-      <guid>http://vieker.github.io/d/services/other/</guid>
-      <description>Other ideas? We&amp;rsquo;re open to suggestions!
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris.</description>
+      <description>Our donation packages include this wonderful doll from a company called Miniland. It&amp;rsquo;s important to us that all children have access to dolls that look like them, so we include dolls of different races and genders with each donation.</description>
     </item>
     
   </channel>

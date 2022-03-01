@@ -20,21 +20,11 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     <item>
       <title>Books</title>
       <link>http://vieker.github.io/d/services/books/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://vieker.github.io/d/services/books/</guid>
-      <description>We give books away!
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris. Etiam placerat velit a nisl ornare, ut vehicula orci pretium.</description>
-    </item>
-    
-    <item>
-      <title>Dolls</title>
-      <link>http://vieker.github.io/d/services/dolls/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>http://vieker.github.io/d/services/dolls/</guid>
-      <description>Dolls, too.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris. Etiam placerat velit a nisl ornare, ut vehicula orci pretium.</description>
+      <description>Our donation packages include the following wonderful books related to Down syndrome.
+ We&amp;rsquo;ll Paint the Octopus Red, by Stephanie Stuve-Bodeen 47 Strings: Tessa&amp;rsquo;s Special Code, by Becky Carey You Are Enough: A Book about Inclusion, by Margaret O&amp;rsquo;Hair My Friend Isabelle, by Eliza Woloson  </description>
     </item>
     
     <item>
@@ -44,6 +34,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulu
       
       <guid>http://vieker.github.io/d/team/sage-kirk/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
+    </item>
+    
+    <item>
+      <title>Dolls</title>
+      <link>http://vieker.github.io/d/services/dolls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vieker.github.io/d/services/dolls/</guid>
+      <description>Our donation packages include this wonderful doll from a company called Miniland. It&amp;rsquo;s important to us that all children have access to dolls that look like them, so we include dolls of different races and genders with each donation.</description>
     </item>
     
     <item>
@@ -62,16 +61,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulu
       
       <guid>http://vieker.github.io/d/team/robert-johnson/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    
-    <item>
-      <title>Other</title>
-      <link>http://vieker.github.io/d/services/other/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      
-      <guid>http://vieker.github.io/d/services/other/</guid>
-      <description>Other ideas? We&amp;rsquo;re open to suggestions!
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean luctus vestibulum ipsum ac varius. Curabitur mollis posuere venenatis. Donec vestibulum risus ut convallis dictum. Quisque suscipit feugiat massa sed dapibus. Cras vel ante molestie, efficitur dolor sit amet, bibendum sapien. Nunc non nulla metus. Proin ut ex vitae massa sodales viverra. Maecenas at pulvinar ex. Nullam nunc nisi, faucibus quis nisi fringilla, cursus faucibus mauris.</description>
     </item>
     
     <item>
@@ -108,16 +97,8 @@ Donate here!</description>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
       
       <guid>http://vieker.github.io/d/about/</guid>
-      <description>Project HAPPIE is dedicated to providing preschools in Northeast Missouri with books about Down Syndrome in order to create a more inclusive environment for all children. Donate here!</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://vieker.github.io/d/contact/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>http://vieker.github.io/d/contact/</guid>
-      <description>Please contact us at the above, and we&amp;rsquo;ll be glad to get back to you.</description>
+      <description>Project HAPPIE is dedicated to providing preschools with books and toys related to Down syndrome to create a more inclusive environment for all children.
+This project started as a way to celebrate World Down Syndrome Day, March 21st. (People with Down syndrome have 3 copies of the 21st chromosome, so 3/21 is a great day to celebrate them!) Every year, our family celebrates our wonderful daughter, who was born with Down syndrome.</description>
     </item>
     
     <item>
@@ -127,6 +108,15 @@ Donate here!</description>
       
       <guid>http://vieker.github.io/d/donate/</guid>
       <description>Project HAPPIE is dedicated to providing preschools in Northeast Missouri with books about Down Syndrome in order to create a more inclusive environment for all children. Donate here!</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://vieker.github.io/d/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://vieker.github.io/d/contact/</guid>
+      <description>Please contact us at the above, and we&amp;rsquo;ll be glad to get back to you.</description>
     </item>
     
   </channel>
