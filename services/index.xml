@@ -2,37 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>What We Donate on Project HAPPIE</title>
-    <link>https://projecthappie.org/services/</link>
+    <link>http://localhost:1313/services/</link>
     <description>Recent content in What We Donate on Project HAPPIE</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://projecthappie.org/services/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>https://projecthappie.org/services/books/</link>
+      <link>http://localhost:1313/services/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://projecthappie.org/services/books/</guid>
-      <description>Our donation packages include the following wonderful books related to Down syndrome.
-We&amp;rsquo;ll Paint the Octopus Red, by Stephanie Stuve-Bodeen 47 Strings: Tessa&amp;rsquo;s Special Code, by Becky Carey You Are Enough: A Book about Inclusion, by Margaret O&amp;rsquo;Hair My Friend Isabelle, by Eliza Woloson </description>
+      <guid>http://localhost:1313/services/books/</guid>
+      <description>Our donation packages include the following wonderful books related to Down syndrome.&#xA;We&amp;rsquo;ll Paint the Octopus Red, by Stephanie Stuve-Bodeen 47 Strings: Tessa&amp;rsquo;s Special Code, by Becky Carey You Are Enough: A Book about Inclusion, by Margaret O&amp;rsquo;Hair My Friend Isabelle, by Eliza Woloson </description>
     </item>
-    
     <item>
       <title>Dolls</title>
-      <link>https://projecthappie.org/services/dolls/</link>
+      <link>http://localhost:1313/services/dolls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://projecthappie.org/services/dolls/</guid>
+      <guid>http://localhost:1313/services/dolls/</guid>
       <description>Our donation packages include this wonderful doll from a company called Miniland. It&amp;rsquo;s important to us that all children have access to dolls that look like them, so we include dolls of different races and genders with each donation.</description>
     </item>
-    
     <item>
       <title>Party Down for Down Syndrome!</title>
-      <link>https://projecthappie.org/services/party-down/</link>
+      <link>http://localhost:1313/services/party-down/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://projecthappie.org/services/party-down/</guid>
-      <description>Join us on Saturday, September 30th, 2023 from 1-3 PM at Rotary Park in Kirksville for our first annual Party Down for Down Syndrome event!</description>
+      <guid>http://localhost:1313/services/party-down/</guid>
+      <description>Join us on Saturday, October 5th, 2024 from 1:30-3:00 PM at Rotary Park in Kirksville for our annual Party Down for Down Syndrome event!</description>
     </item>
-    
   </channel>
 </rss>
