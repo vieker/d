@@ -2,56 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/team/peter-van-eijk/</loc>
+    <loc>https://projecthappie.org/team/peter-van-eijk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/books/</loc>
+    <loc>https://projecthappie.org/services/books/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/sage-kirk/</loc>
+    <loc>https://projecthappie.org/team/sage-kirk/</loc>
     <lastmod>2018-11-19T10:47:58+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/services/dolls/</loc>
+    <loc>https://projecthappie.org/services/dolls/</loc>
   </url><url>
-    <loc>http://localhost:1313/team/mike-vance/</loc>
+    <loc>https://projecthappie.org/team/mike-vance/</loc>
     <lastmod>2018-12-20T13:44:30+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/robert-johnson/</loc>
+    <loc>https://projecthappie.org/team/robert-johnson/</loc>
     <lastmod>2018-12-20T13:44:23+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/tamara-ells/</loc>
+    <loc>https://projecthappie.org/team/tamara-ells/</loc>
     <lastmod>2018-12-20T13:44:55+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/susan-shelton/</loc>
+    <loc>https://projecthappie.org/team/susan-shelton/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://projecthappie.org/</loc>
     <lastmod>2022-02-01T14:36:29-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://projecthappie.org/posts/</loc>
     <lastmod>2022-02-01T14:36:29-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/my-first-post-prev/</loc>
+    <loc>https://projecthappie.org/posts/my-first-post-prev/</loc>
     <lastmod>2022-02-01T14:36:29-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/team/</loc>
+    <loc>https://projecthappie.org/team/</loc>
     <lastmod>2018-12-20T13:45:06+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://projecthappie.org/about/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/donate/</loc>
+    <loc>https://projecthappie.org/donate/</loc>
     <lastmod>2018-02-22T17:01:34+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://projecthappie.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://projecthappie.org/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/404/</loc>
+    <loc>https://projecthappie.org/404/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/party-down/</loc>
+    <loc>https://projecthappie.org/services/party-down/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://projecthappie.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>https://projecthappie.org/services/</loc>
   </url>
 </urlset>
